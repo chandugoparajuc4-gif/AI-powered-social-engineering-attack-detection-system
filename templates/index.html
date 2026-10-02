@@ -1,0 +1,141 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Social Engineering Detection System</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>AI-Powered Social Engineering Detection</h1>
+            <p>Analyze messages for suspicious patterns and potential scams.</p>
+        </header>
+
+        <main>
+            <!-- Dashboard Overview -->
+            <section class="dashboard-stats">
+                <h2>Dashboard Overview</h2>
+
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <p>Total Analyzed</p>
+                        <h3 id="totalCount">0</h3>
+                    </div>
+
+                    <div class="stat-card">
+                        <p>Suspicious Messages</p>
+                        <h3 id="suspiciousCount">0</h3>
+                    </div>
+
+                    <div class="stat-card">
+                        <p>Safe Messages</p>
+                        <h3 id="safeCount">0</h3>
+                    </div>
+
+                    <div class="stat-card">
+                        <p>High Risk</p>
+                        <h3 id="highRiskCount">0</h3>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Message Analyzer -->
+            <section class="analyzer">
+                <h2>Message Analyzer</h2>
+
+                <label for="message">Enter your message</label>
+                <textarea
+                    id="message"
+                    placeholder="Paste or type a message here..."
+                    rows="7"
+                ></textarea>
+
+                <button
+                    id="analyzeBtn"
+                    onclick="analyzeMessage()"
+                    type="button"
+                >
+                    Analyze Message
+                </button>
+
+                <p id="error" class="error"></p>
+            </section>
+
+            <!-- Analysis Result -->
+            <section id="result" class="result hidden">
+                <h2>Analysis Result</h2>
+
+                <div class="result-card">
+                    <p>Prediction</p>
+                    <h3 id="prediction">-</h3>
+                </div>
+
+                <div class="result-card">
+                    <p>Suspicious Probability</p>
+                    <h3 id="confidence">-</h3>
+                </div>
+
+                <div class="result-card">
+                    <p>Risk Level</p>
+                    <h3 id="riskLevel">-</h3>
+
+                    <div class="risk-bar">
+                        <div
+                            id="riskBarFill"
+                            class="risk-bar-fill"
+                        ></div>
+                    </div>
+                </div>
+
+                <div class="indicators">
+                    <h3>Warning Indicators</h3>
+                    <ul id="indicatorList"></ul>
+                </div>
+            </section>
+        </main>
+
+        <!-- Analysis History -->
+        <section class="history">
+            <div class="history-header">
+                <h2>Analysis History</h2>
+
+                <div class="history-actions">
+                    <button
+                        id="exportHistoryBtn"
+                        class="export-history-btn"
+                        onclick="exportHistory()"
+                        type="button"
+                    >
+                        Export History
+                    </button>
+
+                    <button
+                        id="clearHistoryBtn"
+                        class="clear-history-btn"
+                        onclick="clearHistory()"
+                        type="button"
+                    >
+                        Clear History
+                    </button>
+                </div>
+            </div>
+
+            <div id="historyEmpty" class="history-empty">
+                No analysis history yet.
+            </div>
+
+            <div id="historyList"></div>
+        </section>
+
+        <!-- Footer -->
+        <footer>
+            <p>AI-Powered Social Engineering Detection System</p>
+        </footer>
+    </div>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>

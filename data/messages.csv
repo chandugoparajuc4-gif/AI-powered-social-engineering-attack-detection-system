@@ -1,0 +1,531 @@
+text,label,category
+"Microsoft giveaway: you were selected to receive Rs. 10,00,000. Click http://secure-login-verify.com/account and enter your bank details.",1,prize_scam
+"Your parcel is held at customs. Pay a fee of Rs. 4,999 at http://amazon-rewards-claim.xyz/win within today or it will be destroyed.",1,threat_scam
+Action required: your Flipkart password expires in 2 hours. Login at http://paypa1-support.net/verify to keep access.,1,phishing
+"FINAL WARNING: A legal case has been filed against you. Pay Rs. 25,000 within 30 minutes or you will be arrested.",1,threat_scam
+"From the Managing Director: I need your help with a private payment of Rs. 1,50,000. Do not tell the finance team yet.",1,ceo_fraud
+SBI notice: suspicious transaction of $500. Verify your OTP and PIN at http://bank-update-kyc.info/login now.,1,phishing
+WARNING: Your computer is infected with a virus. Call Flipkart support immediately and allow remote access.,1,tech_support
+Payment of $89.99 to Microsoft was successful. Thank you for your purchase.,0,safe
+"Payment of Rs. 25,000 to Apple was successful. Thank you for your purchase.",0,safe
+Your PayPal KYC has expired. Update now at http://bit.ly/3xYz9Ab or your account will be blocked.,1,phishing
+Your Axis Bank KYC has expired. Update now at http://tinyurl.com/urgent-verify or your account will be blocked.,1,phishing
+Payment of $89.99 to Flipkart was successful. Thank you for your purchase.,0,safe
+"Dear customer, unusual login detected on your Chase account. Click http://tinyurl.com/urgent-verify to confirm your password immediately.",1,phishing
+"Hi Anita, this is the Managing Director. I am in a meeting and need you to buy gift cards urgently. Keep this confidential.",1,ceo_fraud
+"Hi Anita, this is the CFO. I am in a meeting and need you to buy gift cards urgently. Keep this confidential.",1,ceo_fraud
+"Payment of Rs. 4,999 to Flipkart was successful. Thank you for your purchase.",0,safe
+Action required: your Flipkart password expires in today. Login at http://bank-update-kyc.info/login to keep access.,1,phishing
+"Dear Priya, you have been chosen for a free a brand new car. Act fast, offer ends in today!",1,prize_scam
+"Hi Karthik, this is the CFO. I am in a meeting and need you to buy gift cards urgently. Keep this confidential.",1,ceo_fraud
+"Payment of $1,200 to Paytm was successful. Thank you for your purchase.",0,safe
+Happy birthday Priya! Hope you have a wonderful day with family.,0,safe
+Don't forget the team meeting at 3 pm in conference room B.,0,safe
+Congratulations David! You have won iPhone 15. Claim your prize now at http://amazon-rewards-claim.xyz/win,1,prize_scam
+"Dear Karthik, you have been chosen for a free iPhone 15. Act fast, offer ends in today!",1,prize_scam
+"Your parcel is held at customs. Pay a fee of Rs. 25,000 at http://secure-login-verify.com/account within 24 hours or it will be destroyed.",1,threat_scam
+"Thanks for sending the report, John. I'll review it and get back to you by Friday.",0,safe
+Congratulations Karthik! You have won a free vacation. Claim your prize now at http://tinyurl.com/urgent-verify,1,prize_scam
+Security alert from Flipkart: confirm your identity and card number here http://bank-update-kyc.info/login to avoid suspension.,1,phishing
+"Dear Priya, you have been chosen for a free a brand new car. Act fast, offer ends in 24 hours!",1,prize_scam
+Flipkart Security: we detected hackers on your device. Install this software now http://tinyurl.com/urgent-verify to fix it.,1,tech_support
+"Wells Fargo notice: suspicious transaction of Rs. 4,999. Verify your OTP and PIN at http://tinyurl.com/urgent-verify now.",1,phishing
+Security alert from Paytm: confirm your identity and card number here http://bit.ly/3xYz9Ab to avoid suspension.,1,phishing
+Your Amazon subscription renews next month. You can manage it anytime in your account settings.,0,safe
+We have your personal photos. Send $500 in end of day or we will share them with your contacts.,1,threat_scam
+Your Wells Fargo KYC has expired. Update now at http://tinyurl.com/urgent-verify or your account will be blocked.,1,phishing
+Your Wells Fargo KYC has expired. Update now at http://bit.ly/3xYz9Ab or your account will be blocked.,1,phishing
+"FINAL WARNING: A legal case has been filed against you. Pay Rs. 4,999 within today or you will be arrested.",1,threat_scam
+SBI notice: suspicious transaction of $500. Verify your OTP and PIN at http://tinyurl.com/urgent-verify now.,1,phishing
+Security alert from Netflix: confirm your identity and card number here http://secure-login-verify.com/account to avoid suspension.,1,phishing
+Paytm Security: we detected hackers on your device. Install this software now http://bank-update-kyc.info/login to fix it.,1,tech_support
+"Congratulations Meera! You have won $1,000 gift card. Claim your prize now at http://amazon-rewards-claim.xyz/win",1,prize_scam
+Your Netflix order has been shipped and will arrive on Thursday. Track it in the official app.,0,safe
+"Hi Anita, this is the Director. I am in a meeting and need you to buy gift cards urgently. Keep this confidential.",1,ceo_fraud
+"Hello, this is Microsoft technical support. Please give us your password to remove the malware.",1,tech_support
+"Hi Anita, are we still meeting for lunch tomorrow at 1 pm?",0,safe
+Payment of $89.99 to Amazon was successful. Thank you for your purchase.,0,safe
+WARNING: Your computer is infected with a virus. Call Netflix support immediately and allow remote access.,1,tech_support
+Quick favor Anita: change the vendor bank account details before end of day. This is confidential and urgent.,1,ceo_fraud
+"You are our lucky winner! Send a small processing fee to receive $1,000 gift card. Reply within end of day.",1,prize_scam
+Your Chase KYC has expired. Update now at http://bit.ly/3xYz9Ab or your account will be blocked.,1,phishing
+"Payment of Rs. 1,50,000 to Microsoft was successful. Thank you for your purchase.",0,safe
+"Dear David, you have been chosen for a free Rs. 10,00,000. Act fast, offer ends in today!",1,prize_scam
+Your Paytm subscription renews next month. You can manage it anytime in your account settings.,0,safe
+URGENT: Your SBI account has been suspended. Verify your details within 30 minutes at http://bank-update-kyc.info/login,1,phishing
+"Your electricity will be disconnected tonight unless you pay Rs. 1,50,000 at http://paypa1-support.net/verify. Act now.",1,threat_scam
+"Rahul, please process an urgent wire transfer of Rs. 4,999 to this new vendor today. Do not discuss with anyone.",1,ceo_fraud
+Your ICICI Bank statement for this month is now available. Log in through the official app to view it.,0,safe
+"Congratulations Meera! You have won Rs. 10,00,000. Claim your prize now at http://tinyurl.com/urgent-verify",1,prize_scam
+Your HDFC Bank statement for this month is now available. Log in through the official app to view it.,0,safe
+"We have your personal photos. Send $1,200 in 30 minutes or we will share them with your contacts.",1,threat_scam
+WARNING: Your computer is infected with a virus. Call Amazon support immediately and allow remote access.,1,tech_support
+"Thanks for sending the report, Anita. I'll review it and get back to you by Friday.",0,safe
+"Your electricity will be disconnected tonight unless you pay Rs. 4,999 at http://secure-login-verify.com/account. Act now.",1,threat_scam
+"John, please process an urgent wire transfer of $1,200 to this new vendor today. Do not discuss with anyone.",1,ceo_fraud
+Action required: your Netflix password expires in today. Login at http://secure-login-verify.com/account to keep access.,1,phishing
+"Payment of Rs. 1,50,000 to Google was successful. Thank you for your purchase.",0,safe
+Microsoft giveaway: you were selected to receive a free vacation. Click http://bit.ly/3xYz9Ab and enter your bank details.,1,prize_scam
+Flipkart giveaway: you were selected to receive a brand new car. Click http://bit.ly/3xYz9Ab and enter your bank details.,1,prize_scam
+Security alert from Netflix: confirm your identity and card number here http://bank-update-kyc.info/login to avoid suspension.,1,phishing
+"From the CFO: I need your help with a private payment of Rs. 4,999. Do not tell the finance team yet.",1,ceo_fraud
+URGENT: Your Axis Bank account has been suspended. Verify your details within 2 hours at http://amazon-rewards-claim.xyz/win,1,phishing
+We have your personal photos. Send $89.99 in end of day or we will share them with your contacts.,1,threat_scam
+Your Flipkart account was hacked. Share the verification code we sent you so our agent can secure it.,1,tech_support
+Your ICICI Bank KYC has expired. Update now at http://bank-update-kyc.info/login or your account will be blocked.,1,phishing
+Congratulations Priya! You have won a free vacation. Claim your prize now at http://bank-update-kyc.info/login,1,prize_scam
+URGENT: Your PayPal account has been suspended. Verify your details within end of day at http://secure-login-verify.com/account,1,phishing
+PayPal notice: suspicious transaction of $89.99. Verify your OTP and PIN at http://paypa1-support.net/verify now.,1,phishing
+Security alert from Amazon: confirm your identity and card number here http://bank-update-kyc.info/login to avoid suspension.,1,phishing
+"HDFC Bank notice: suspicious transaction of Rs. 25,000. Verify your OTP and PIN at http://bit.ly/3xYz9Ab now.",1,phishing
+"Axis Bank notice: suspicious transaction of Rs. 25,000. Verify your OTP and PIN at http://bit.ly/3xYz9Ab now.",1,phishing
+"Hey David, I'm running ten minutes late. Please start without me.",0,safe
+Action required: your Amazon password expires in 24 hours. Login at http://bit.ly/3xYz9Ab to keep access.,1,phishing
+"Hi Meera, this is the CEO. I am in a meeting and need you to buy gift cards urgently. Keep this confidential.",1,ceo_fraud
+WARNING: Your computer is infected with a virus. Call Apple support immediately and allow remote access.,1,tech_support
+"Payment of Rs. 1,50,000 to Paytm was successful. Thank you for your purchase.",0,safe
+Your Paytm order has been shipped and will arrive on Thursday. Track it in the official app.,0,safe
+"We have your personal photos. Send Rs. 1,50,000 in 24 hours or we will share them with your contacts.",1,threat_scam
+Final notice: unclaimed reward of $89.99 is waiting. Confirm your details at http://bit.ly/3xYz9Ab before it expires.,1,prize_scam
+Action required: your Google password expires in 30 minutes. Login at http://paypa1-support.net/verify to keep access.,1,phishing
+Your Amazon order has been shipped and will arrive on Thursday. Track it in the official app.,0,safe
+"FINAL WARNING: A legal case has been filed against you. Pay $1,200 within 2 hours or you will be arrested.",1,threat_scam
+"PayPal notice: suspicious transaction of Rs. 1,50,000. Verify your OTP and PIN at http://secure-login-verify.com/account now.",1,phishing
+Microsoft Security: we detected hackers on your device. Install this software now http://bank-update-kyc.info/login to fix it.,1,tech_support
+HDFC Bank notice: suspicious transaction of $500. Verify your OTP and PIN at http://tinyurl.com/urgent-verify now.,1,phishing
+Happy birthday Anita! Hope you have a wonderful day with family.,0,safe
+Security alert from Microsoft: confirm your identity and card number here http://paypa1-support.net/verify to avoid suspension.,1,phishing
+URGENT: Your ICICI Bank account has been suspended. Verify your details within today at http://bank-update-kyc.info/login,1,phishing
+From the CEO: I need your help with a private payment of $500. Do not tell the finance team yet.,1,ceo_fraud
+"Final notice: unclaimed reward of Rs. 25,000 is waiting. Confirm your details at http://secure-login-verify.com/account before it expires.",1,prize_scam
+Your package from Microsoft was delivered to your front door at 2:15 pm.,0,safe
+HDFC Bank will never ask for your PIN or password. Stay alert and report suspicious messages.,0,safe
+"Your parcel is held at customs. Pay a fee of Rs. 1,50,000 at http://paypa1-support.net/verify within 24 hours or it will be destroyed.",1,threat_scam
+Your Microsoft subscription renews next month. You can manage it anytime in your account settings.,0,safe
+Final notice: unclaimed reward of $500 is waiting. Confirm your details at http://bank-update-kyc.info/login before it expires.,1,prize_scam
+FINAL WARNING: A legal case has been filed against you. Pay $500 within 30 minutes or you will be arrested.,1,threat_scam
+"Payment of Rs. 25,000 to Flipkart was successful. Thank you for your purchase.",0,safe
+Congratulations Sarah! You have won a brand new car. Claim your prize now at http://bank-update-kyc.info/login,1,prize_scam
+"Your OTP is 482913. Do not share this code with anyone, including ICICI Bank staff.",0,safe
+Your Apple subscription renews next month. You can manage it anytime in your account settings.,0,safe
+"Payment of Rs. 25,000 to Microsoft was successful. Thank you for your purchase.",0,safe
+Your HDFC Bank KYC has expired. Update now at http://tinyurl.com/urgent-verify or your account will be blocked.,1,phishing
+"Tax department notice: you owe $1,200. Pay immediately via gift cards to avoid prosecution.",1,threat_scam
+Quick favor Sarah: change the vendor bank account details before 24 hours. This is confidential and urgent.,1,ceo_fraud
+"We have your personal photos. Send Rs. 25,000 in 24 hours or we will share them with your contacts.",1,threat_scam
+FINAL WARNING: A legal case has been filed against you. Pay $500 within 2 hours or you will be arrested.,1,threat_scam
+"Congratulations Karthik! You have won $1,000 gift card. Claim your prize now at http://secure-login-verify.com/account",1,prize_scam
+Your electricity will be disconnected tonight unless you pay $500 at http://paypa1-support.net/verify. Act now.,1,threat_scam
+"Your parcel is held at customs. Pay a fee of Rs. 25,000 at http://bank-update-kyc.info/login within 24 hours or it will be destroyed.",1,threat_scam
+"Your electricity will be disconnected tonight unless you pay $1,200 at http://secure-login-verify.com/account. Act now.",1,threat_scam
+"Dear David, you have been chosen for a free a brand new car. Act fast, offer ends in end of day!",1,prize_scam
+"Google giveaway: you were selected to receive $1,000 gift card. Click http://tinyurl.com/urgent-verify and enter your bank details.",1,prize_scam
+Reminder: your dentist appointment is scheduled for Monday at 10 am.,0,safe
+Your parcel is held at customs. Pay a fee of $89.99 at http://bank-update-kyc.info/login within today or it will be destroyed.,1,threat_scam
+Congratulations Karthik! You have won a free vacation. Claim your prize now at http://bank-update-kyc.info/login,1,prize_scam
+"We have your personal photos. Send Rs. 1,50,000 in end of day or we will share them with your contacts.",1,threat_scam
+Action required: your Microsoft password expires in today. Login at http://tinyurl.com/urgent-verify to keep access.,1,phishing
+"This is your CFO. I need you to send Rs. 4,999 right now. I cannot take calls. Reply as soon as possible.",1,ceo_fraud
+"Your electricity will be disconnected tonight unless you pay $1,200 at http://amazon-rewards-claim.xyz/win. Act now.",1,threat_scam
+"This is your CEO. I need you to send $1,200 right now. I cannot take calls. Reply as soon as possible.",1,ceo_fraud
+"Hey Rahul, I'm running ten minutes late. Please start without me.",0,safe
+"Your electricity will be disconnected tonight unless you pay Rs. 25,000 at http://bit.ly/3xYz9Ab. Act now.",1,threat_scam
+Payment of $89.99 to Google was successful. Thank you for your purchase.,0,safe
+Happy birthday Sarah! Hope you have a wonderful day with family.,0,safe
+"Dear customer, unusual login detected on your PayPal account. Click http://secure-login-verify.com/account to confirm your password immediately.",1,phishing
+FINAL WARNING: A legal case has been filed against you. Pay $89.99 within end of day or you will be arrested.,1,threat_scam
+Security alert from Google: confirm your identity and card number here http://tinyurl.com/urgent-verify to avoid suspension.,1,phishing
+"Your electricity will be disconnected tonight unless you pay Rs. 1,50,000 at http://bit.ly/3xYz9Ab. Act now.",1,threat_scam
+We have your personal photos. Send $500 in 2 hours or we will share them with your contacts.,1,threat_scam
+"We have your personal photos. Send Rs. 4,999 in 30 minutes or we will share them with your contacts.",1,threat_scam
+Happy birthday Karthik! Hope you have a wonderful day with family.,0,safe
+"John, please process an urgent wire transfer of $500 to this new vendor today. Do not discuss with anyone.",1,ceo_fraud
+URGENT: Your Chase account has been suspended. Verify your details within today at http://amazon-rewards-claim.xyz/win,1,phishing
+"Hi John, are we still meeting for lunch tomorrow at 1 pm?",0,safe
+Your Wells Fargo KYC has expired. Update now at http://bank-update-kyc.info/login or your account will be blocked.,1,phishing
+"Your electricity will be disconnected tonight unless you pay $1,200 at http://paypa1-support.net/verify. Act now.",1,threat_scam
+"Dear Karthik, you have been chosen for a free iPhone 15. Act fast, offer ends in 2 hours!",1,prize_scam
+Congratulations David! You have won a brand new car. Claim your prize now at http://secure-login-verify.com/account,1,prize_scam
+"From the Director: I need your help with a private payment of Rs. 25,000. Do not tell the finance team yet.",1,ceo_fraud
+"Congratulations John! You have won Rs. 10,00,000. Claim your prize now at http://secure-login-verify.com/account",1,prize_scam
+"Great job on the presentation today, Sarah! The client loved it.",0,safe
+"Dear customer, unusual login detected on your SBI account. Click http://tinyurl.com/urgent-verify to confirm your password immediately.",1,phishing
+"You are our lucky winner! Send a small processing fee to receive $1,000 gift card. Reply within 30 minutes.",1,prize_scam
+Alert! Your device has 5 viruses. Do not turn off your computer. Call the toll free number within end of day.,1,tech_support
+"This is your Director. I need you to send $1,200 right now. I cannot take calls. Reply as soon as possible.",1,ceo_fraud
+Your PayPal statement for this month is now available. Log in through the official app to view it.,0,safe
+Your PayPal KYC has expired. Update now at http://tinyurl.com/urgent-verify or your account will be blocked.,1,phishing
+Apple Security: we detected hackers on your device. Install this software now http://secure-login-verify.com/account to fix it.,1,tech_support
+"PayPal notice: suspicious transaction of Rs. 25,000. Verify your OTP and PIN at http://amazon-rewards-claim.xyz/win now.",1,phishing
+"PayPal notice: suspicious transaction of Rs. 25,000. Verify your OTP and PIN at http://bit.ly/3xYz9Ab now.",1,phishing
+Flipkart Security: we detected hackers on your device. Install this software now http://secure-login-verify.com/account to fix it.,1,tech_support
+Your Wells Fargo KYC has expired. Update now at http://amazon-rewards-claim.xyz/win or your account will be blocked.,1,phishing
+Happy birthday Rahul! Hope you have a wonderful day with family.,0,safe
+"Sarah, please process an urgent wire transfer of Rs. 1,50,000 to this new vendor today. Do not discuss with anyone.",1,ceo_fraud
+"FINAL WARNING: A legal case has been filed against you. Pay Rs. 1,50,000 within today or you will be arrested.",1,threat_scam
+Netflix giveaway: you were selected to receive a brand new car. Click http://amazon-rewards-claim.xyz/win and enter your bank details.,1,prize_scam
+Security alert from Microsoft: confirm your identity and card number here http://tinyurl.com/urgent-verify to avoid suspension.,1,phishing
+ICICI Bank will never ask for your PIN or password. Stay alert and report suspicious messages.,0,safe
+Your Microsoft account was hacked. Share the verification code we sent you so our agent can secure it.,1,tech_support
+Your HDFC Bank KYC has expired. Update now at http://bit.ly/3xYz9Ab or your account will be blocked.,1,phishing
+Your Microsoft order has been shipped and will arrive on Thursday. Track it in the official app.,0,safe
+From the Director: I need your help with a private payment of $89.99. Do not tell the finance team yet.,1,ceo_fraud
+Alert! Your device has 5 viruses. Do not turn off your computer. Call the toll free number within today.,1,tech_support
+Action required: your Google password expires in 30 minutes. Login at http://tinyurl.com/urgent-verify to keep access.,1,phishing
+"Google giveaway: you were selected to receive Rs. 10,00,000. Click http://tinyurl.com/urgent-verify and enter your bank details.",1,prize_scam
+HDFC Bank notice: suspicious transaction of $89.99. Verify your OTP and PIN at http://bit.ly/3xYz9Ab now.,1,phishing
+You are our lucky winner! Send a small processing fee to receive a brand new car. Reply within 24 hours.,1,prize_scam
+"John, please process an urgent wire transfer of Rs. 25,000 to this new vendor today. Do not discuss with anyone.",1,ceo_fraud
+"Dear customer, unusual login detected on your Axis Bank account. Click http://bank-update-kyc.info/login to confirm your password immediately.",1,phishing
+"Great job on the presentation today, Anita! The client loved it.",0,safe
+"We have your personal photos. Send $1,200 in end of day or we will share them with your contacts.",1,threat_scam
+"Dear customer, unusual login detected on your Chase account. Click http://bit.ly/3xYz9Ab to confirm your password immediately.",1,phishing
+Quick favor Rahul: change the vendor bank account details before 24 hours. This is confidential and urgent.,1,ceo_fraud
+"Hello, this is Flipkart technical support. Please give us your password to remove the malware.",1,tech_support
+URGENT: Your PayPal account has been suspended. Verify your details within 2 hours at http://amazon-rewards-claim.xyz/win,1,phishing
+You are our lucky winner! Send a small processing fee to receive iPhone 15. Reply within 30 minutes.,1,prize_scam
+"We have your personal photos. Send Rs. 4,999 in 24 hours or we will share them with your contacts.",1,threat_scam
+"Hi Meera, this is the Director. I am in a meeting and need you to buy gift cards urgently. Keep this confidential.",1,ceo_fraud
+Security alert from Paytm: confirm your identity and card number here http://amazon-rewards-claim.xyz/win to avoid suspension.,1,phishing
+Google Security: we detected hackers on your device. Install this software now http://amazon-rewards-claim.xyz/win to fix it.,1,tech_support
+"Great job on the presentation today, John! The client loved it.",0,safe
+URGENT: Your Axis Bank account has been suspended. Verify your details within 2 hours at http://bit.ly/3xYz9Ab,1,phishing
+URGENT: Your Axis Bank account has been suspended. Verify your details within 30 minutes at http://bit.ly/3xYz9Ab,1,phishing
+"You are our lucky winner! Send a small processing fee to receive $1,000 gift card. Reply within today.",1,prize_scam
+"Payment of Rs. 1,50,000 to Amazon was successful. Thank you for your purchase.",0,safe
+Google giveaway: you were selected to receive a brand new car. Click http://amazon-rewards-claim.xyz/win and enter your bank details.,1,prize_scam
+URGENT: Your PayPal account has been suspended. Verify your details within 30 minutes at http://secure-login-verify.com/account,1,phishing
+Netflix giveaway: you were selected to receive a brand new car. Click http://bank-update-kyc.info/login and enter your bank details.,1,prize_scam
+"Hey Karthik, I'm running ten minutes late. Please start without me.",0,safe
+"Dear Anita, you have been chosen for a free $1,000 gift card. Act fast, offer ends in today!",1,prize_scam
+Final notice: unclaimed reward of $89.99 is waiting. Confirm your details at http://paypa1-support.net/verify before it expires.,1,prize_scam
+"Priya, please process an urgent wire transfer of Rs. 4,999 to this new vendor today. Do not discuss with anyone.",1,ceo_fraud
+Paytm giveaway: you were selected to receive a free vacation. Click http://bank-update-kyc.info/login and enter your bank details.,1,prize_scam
+"We have your personal photos. Send Rs. 4,999 in today or we will share them with your contacts.",1,threat_scam
+"Hello, this is Apple technical support. Please give us your password to remove the malware.",1,tech_support
+"Final notice: unclaimed reward of $1,200 is waiting. Confirm your details at http://bank-update-kyc.info/login before it expires.",1,prize_scam
+"Dear Anita, you have been chosen for a free a brand new car. Act fast, offer ends in end of day!",1,prize_scam
+"Your parcel is held at customs. Pay a fee of Rs. 4,999 at http://bit.ly/3xYz9Ab within 2 hours or it will be destroyed.",1,threat_scam
+"Your electricity will be disconnected tonight unless you pay Rs. 1,50,000 at http://amazon-rewards-claim.xyz/win. Act now.",1,threat_scam
+"Hi John, this is the CFO. I am in a meeting and need you to buy gift cards urgently. Keep this confidential.",1,ceo_fraud
+From the CEO: I need your help with a private payment of $89.99. Do not tell the finance team yet.,1,ceo_fraud
+"Karthik, please process an urgent wire transfer of Rs. 25,000 to this new vendor today. Do not discuss with anyone.",1,ceo_fraud
+Payment of $500 to Amazon was successful. Thank you for your purchase.,0,safe
+"Congratulations John! You have won $1,000 gift card. Claim your prize now at http://amazon-rewards-claim.xyz/win",1,prize_scam
+"Your parcel is held at customs. Pay a fee of Rs. 1,50,000 at http://paypa1-support.net/verify within today or it will be destroyed.",1,threat_scam
+URGENT: Your PayPal account has been suspended. Verify your details within today at http://tinyurl.com/urgent-verify,1,phishing
+Your Netflix subscription renews next month. You can manage it anytime in your account settings.,0,safe
+"Dear David, you have been chosen for a free $1,000 gift card. Act fast, offer ends in end of day!",1,prize_scam
+"Dear Rahul, you have been chosen for a free a free vacation. Act fast, offer ends in 30 minutes!",1,prize_scam
+"This is your Director. I need you to send Rs. 25,000 right now. I cannot take calls. Reply as soon as possible.",1,ceo_fraud
+"Your parcel is held at customs. Pay a fee of Rs. 25,000 at http://amazon-rewards-claim.xyz/win within today or it will be destroyed.",1,threat_scam
+"Your OTP is 482913. Do not share this code with anyone, including Axis Bank staff.",0,safe
+"Final notice: unclaimed reward of Rs. 25,000 is waiting. Confirm your details at http://tinyurl.com/urgent-verify before it expires.",1,prize_scam
+"Dear customer, unusual login detected on your ICICI Bank account. Click http://secure-login-verify.com/account to confirm your password immediately.",1,phishing
+You are our lucky winner! Send a small processing fee to receive a brand new car. Reply within 2 hours.,1,prize_scam
+"Payment of Rs. 25,000 to Google was successful. Thank you for your purchase.",0,safe
+Final notice: unclaimed reward of $89.99 is waiting. Confirm your details at http://secure-login-verify.com/account before it expires.,1,prize_scam
+Your Axis Bank KYC has expired. Update now at http://bank-update-kyc.info/login or your account will be blocked.,1,phishing
+"Final notice: unclaimed reward of Rs. 25,000 is waiting. Confirm your details at http://bit.ly/3xYz9Ab before it expires.",1,prize_scam
+"Hi Sarah, this is the Managing Director. I am in a meeting and need you to buy gift cards urgently. Keep this confidential.",1,ceo_fraud
+Your package from Google was delivered to your front door at 2:15 pm.,0,safe
+"From the Director: I need your help with a private payment of Rs. 1,50,000. Do not tell the finance team yet.",1,ceo_fraud
+"Your parcel is held at customs. Pay a fee of Rs. 1,50,000 at http://bank-update-kyc.info/login within 24 hours or it will be destroyed.",1,threat_scam
+Security alert from Netflix: confirm your identity and card number here http://amazon-rewards-claim.xyz/win to avoid suspension.,1,phishing
+"Final notice: unclaimed reward of Rs. 4,999 is waiting. Confirm your details at http://bit.ly/3xYz9Ab before it expires.",1,prize_scam
+Paytm giveaway: you were selected to receive a brand new car. Click http://tinyurl.com/urgent-verify and enter your bank details.,1,prize_scam
+"Dear Meera, you have been chosen for a free $1,000 gift card. Act fast, offer ends in 30 minutes!",1,prize_scam
+Your Paytm account was hacked. Share the verification code we sent you so our agent can secure it.,1,tech_support
+"This is your Managing Director. I need you to send Rs. 1,50,000 right now. I cannot take calls. Reply as soon as possible.",1,ceo_fraud
+Action required: your Apple password expires in today. Login at http://tinyurl.com/urgent-verify to keep access.,1,phishing
+Your Axis Bank statement for this month is now available. Log in through the official app to view it.,0,safe
+"Hi Rahul, this is the Managing Director. I am in a meeting and need you to buy gift cards urgently. Keep this confidential.",1,ceo_fraud
+Payment of $500 to Paytm was successful. Thank you for your purchase.,0,safe
+"Final notice: unclaimed reward of Rs. 1,50,000 is waiting. Confirm your details at http://bank-update-kyc.info/login before it expires.",1,prize_scam
+Axis Bank will never ask for your PIN or password. Stay alert and report suspicious messages.,0,safe
+PayPal will never ask for your PIN or password. Stay alert and report suspicious messages.,0,safe
+Quick favor Karthik: change the vendor bank account details before today. This is confidential and urgent.,1,ceo_fraud
+"We have your personal photos. Send Rs. 25,000 in 2 hours or we will share them with your contacts.",1,threat_scam
+"Thanks for sending the report, Karthik. I'll review it and get back to you by Friday.",0,safe
+"FINAL WARNING: A legal case has been filed against you. Pay Rs. 25,000 within end of day or you will be arrested.",1,threat_scam
+"Your OTP is 482913. Do not share this code with anyone, including HDFC Bank staff.",0,safe
+Quick favor Rahul: change the vendor bank account details before end of day. This is confidential and urgent.,1,ceo_fraud
+"Payment of $1,200 to Microsoft was successful. Thank you for your purchase.",0,safe
+"FINAL WARNING: A legal case has been filed against you. Pay $1,200 within today or you will be arrested.",1,threat_scam
+"Karthik, please process an urgent wire transfer of Rs. 1,50,000 to this new vendor today. Do not discuss with anyone.",1,ceo_fraud
+This is your CFO. I need you to send $89.99 right now. I cannot take calls. Reply as soon as possible.,1,ceo_fraud
+"Your parcel is held at customs. Pay a fee of Rs. 4,999 at http://secure-login-verify.com/account within end of day or it will be destroyed.",1,threat_scam
+Security alert from Paytm: confirm your identity and card number here http://bank-update-kyc.info/login to avoid suspension.,1,phishing
+"Dear Sarah, you have been chosen for a free $1,000 gift card. Act fast, offer ends in 2 hours!",1,prize_scam
+"Hi David, this is the Director. I am in a meeting and need you to buy gift cards urgently. Keep this confidential.",1,ceo_fraud
+Your package from Paytm was delivered to your front door at 2:15 pm.,0,safe
+Security alert from Apple: confirm your identity and card number here http://amazon-rewards-claim.xyz/win to avoid suspension.,1,phishing
+Apple giveaway: you were selected to receive a brand new car. Click http://paypa1-support.net/verify and enter your bank details.,1,prize_scam
+Quick favor Anita: change the vendor bank account details before 30 minutes. This is confidential and urgent.,1,ceo_fraud
+"Hi Priya, this is the CFO. I am in a meeting and need you to buy gift cards urgently. Keep this confidential.",1,ceo_fraud
+Quick favor John: change the vendor bank account details before end of day. This is confidential and urgent.,1,ceo_fraud
+"Hi David, are we still meeting for lunch tomorrow at 1 pm?",0,safe
+Google giveaway: you were selected to receive a free vacation. Click http://bank-update-kyc.info/login and enter your bank details.,1,prize_scam
+This is your Managing Director. I need you to send $89.99 right now. I cannot take calls. Reply as soon as possible.,1,ceo_fraud
+"Hey Priya, I'm running ten minutes late. Please start without me.",0,safe
+Your SBI KYC has expired. Update now at http://secure-login-verify.com/account or your account will be blocked.,1,phishing
+"Your parcel is held at customs. Pay a fee of Rs. 4,999 at http://paypa1-support.net/verify within 2 hours or it will be destroyed.",1,threat_scam
+Alert! Your device has 5 viruses. Do not turn off your computer. Call the toll free number within 30 minutes.,1,tech_support
+"Priya, please process an urgent wire transfer of $89.99 to this new vendor today. Do not discuss with anyone.",1,ceo_fraud
+"Dear John, you have been chosen for a free $1,000 gift card. Act fast, offer ends in 2 hours!",1,prize_scam
+"Great job on the presentation today, Karthik! The client loved it.",0,safe
+"Amazon giveaway: you were selected to receive Rs. 10,00,000. Click http://bit.ly/3xYz9Ab and enter your bank details.",1,prize_scam
+Your Apple order has been shipped and will arrive on Thursday. Track it in the official app.,0,safe
+"Rahul, please process an urgent wire transfer of $1,200 to this new vendor today. Do not discuss with anyone.",1,ceo_fraud
+Congratulations Priya! You have won iPhone 15. Claim your prize now at http://secure-login-verify.com/account,1,prize_scam
+We have your personal photos. Send $89.99 in today or we will share them with your contacts.,1,threat_scam
+URGENT: Your Chase account has been suspended. Verify your details within 2 hours at http://paypa1-support.net/verify,1,phishing
+You are our lucky winner! Send a small processing fee to receive a free vacation. Reply within 24 hours.,1,prize_scam
+"Hello, this is Netflix technical support. Please give us your password to remove the malware.",1,tech_support
+"Hi John, this is the Managing Director. I am in a meeting and need you to buy gift cards urgently. Keep this confidential.",1,ceo_fraud
+Action required: your Amazon password expires in today. Login at http://secure-login-verify.com/account to keep access.,1,phishing
+"Hey Sarah, I'm running ten minutes late. Please start without me.",0,safe
+"We have your personal photos. Send Rs. 4,999 in end of day or we will share them with your contacts.",1,threat_scam
+"Dear Rahul, you have been chosen for a free $1,000 gift card. Act fast, offer ends in today!",1,prize_scam
+"Paytm giveaway: you were selected to receive $1,000 gift card. Click http://secure-login-verify.com/account and enter your bank details.",1,prize_scam
+Microsoft Security: we detected hackers on your device. Install this software now http://amazon-rewards-claim.xyz/win to fix it.,1,tech_support
+From the Managing Director: I need your help with a private payment of $89.99. Do not tell the finance team yet.,1,ceo_fraud
+Your parcel is held at customs. Pay a fee of $500 at http://secure-login-verify.com/account within 30 minutes or it will be destroyed.,1,threat_scam
+"Hi Sarah, this is the CEO. I am in a meeting and need you to buy gift cards urgently. Keep this confidential.",1,ceo_fraud
+Your electricity will be disconnected tonight unless you pay $500 at http://amazon-rewards-claim.xyz/win. Act now.,1,threat_scam
+"From the CFO: I need your help with a private payment of Rs. 1,50,000. Do not tell the finance team yet.",1,ceo_fraud
+Chase will never ask for your PIN or password. Stay alert and report suspicious messages.,0,safe
+"Anita, please process an urgent wire transfer of Rs. 4,999 to this new vendor today. Do not discuss with anyone.",1,ceo_fraud
+"You are our lucky winner! Send a small processing fee to receive $1,000 gift card. Reply within 24 hours.",1,prize_scam
+"Hi Karthik, this is the Managing Director. I am in a meeting and need you to buy gift cards urgently. Keep this confidential.",1,ceo_fraud
+Your Amazon account was hacked. Share the verification code we sent you so our agent can secure it.,1,tech_support
+"Hi Meera, are we still meeting for lunch tomorrow at 1 pm?",0,safe
+"Hello, this is Amazon technical support. Please give us your password to remove the malware.",1,tech_support
+Congratulations Meera! You have won iPhone 15. Claim your prize now at http://tinyurl.com/urgent-verify,1,prize_scam
+Your package from Flipkart was delivered to your front door at 2:15 pm.,0,safe
+"Hi Karthik, this is the Director. I am in a meeting and need you to buy gift cards urgently. Keep this confidential.",1,ceo_fraud
+Your electricity will be disconnected tonight unless you pay $500 at http://bank-update-kyc.info/login. Act now.,1,threat_scam
+Your parcel is held at customs. Pay a fee of $500 at http://amazon-rewards-claim.xyz/win within end of day or it will be destroyed.,1,threat_scam
+Your Google subscription renews next month. You can manage it anytime in your account settings.,0,safe
+Your parcel is held at customs. Pay a fee of $500 at http://secure-login-verify.com/account within 24 hours or it will be destroyed.,1,threat_scam
+"Payment of Rs. 4,999 to Google was successful. Thank you for your purchase.",0,safe
+Quick favor David: change the vendor bank account details before end of day. This is confidential and urgent.,1,ceo_fraud
+"Your parcel is held at customs. Pay a fee of $1,200 at http://secure-login-verify.com/account within 2 hours or it will be destroyed.",1,threat_scam
+"We have your personal photos. Send $1,200 in today or we will share them with your contacts.",1,threat_scam
+"Final notice: unclaimed reward of $1,200 is waiting. Confirm your details at http://amazon-rewards-claim.xyz/win before it expires.",1,prize_scam
+"Amazon giveaway: you were selected to receive $1,000 gift card. Click http://bank-update-kyc.info/login and enter your bank details.",1,prize_scam
+"Your parcel is held at customs. Pay a fee of Rs. 1,50,000 at http://bank-update-kyc.info/login within today or it will be destroyed.",1,threat_scam
+Happy birthday David! Hope you have a wonderful day with family.,0,safe
+"We have your personal photos. Send Rs. 4,999 in 2 hours or we will share them with your contacts.",1,threat_scam
+Quick favor Meera: change the vendor bank account details before 2 hours. This is confidential and urgent.,1,ceo_fraud
+Congratulations Rahul! You have won a free vacation. Claim your prize now at http://bank-update-kyc.info/login,1,prize_scam
+"Tax department notice: you owe Rs. 25,000. Pay immediately via gift cards to avoid prosecution.",1,threat_scam
+Your Apple account was hacked. Share the verification code we sent you so our agent can secure it.,1,tech_support
+"Great job on the presentation today, David! The client loved it.",0,safe
+"Your parcel is held at customs. Pay a fee of Rs. 1,50,000 at http://secure-login-verify.com/account within 30 minutes or it will be destroyed.",1,threat_scam
+"You are our lucky winner! Send a small processing fee to receive Rs. 10,00,000. Reply within 2 hours.",1,prize_scam
+Quick favor Priya: change the vendor bank account details before 30 minutes. This is confidential and urgent.,1,ceo_fraud
+"Dear Karthik, you have been chosen for a free $1,000 gift card. Act fast, offer ends in 24 hours!",1,prize_scam
+Microsoft giveaway: you were selected to receive iPhone 15. Click http://secure-login-verify.com/account and enter your bank details.,1,prize_scam
+"This is your CEO. I need you to send Rs. 1,50,000 right now. I cannot take calls. Reply as soon as possible.",1,ceo_fraud
+Paytm Security: we detected hackers on your device. Install this software now http://tinyurl.com/urgent-verify to fix it.,1,tech_support
+You are our lucky winner! Send a small processing fee to receive iPhone 15. Reply within 2 hours.,1,prize_scam
+"Final notice: unclaimed reward of Rs. 4,999 is waiting. Confirm your details at http://tinyurl.com/urgent-verify before it expires.",1,prize_scam
+Your parcel is held at customs. Pay a fee of $89.99 at http://bit.ly/3xYz9Ab within 30 minutes or it will be destroyed.,1,threat_scam
+Flipkart Security: we detected hackers on your device. Install this software now http://amazon-rewards-claim.xyz/win to fix it.,1,tech_support
+Can you share the project slides before tomorrow's class?,0,safe
+"Your parcel is held at customs. Pay a fee of Rs. 4,999 at http://tinyurl.com/urgent-verify within today or it will be destroyed.",1,threat_scam
+Congratulations John! You have won iPhone 15. Claim your prize now at http://bit.ly/3xYz9Ab,1,prize_scam
+"Payment of Rs. 4,999 to Amazon was successful. Thank you for your purchase.",0,safe
+"Rahul, please process an urgent wire transfer of Rs. 25,000 to this new vendor today. Do not discuss with anyone.",1,ceo_fraud
+"Hi Sarah, are we still meeting for lunch tomorrow at 1 pm?",0,safe
+"Thanks for sending the report, Sarah. I'll review it and get back to you by Friday.",0,safe
+You are our lucky winner! Send a small processing fee to receive iPhone 15. Reply within 24 hours.,1,prize_scam
+"Your electricity will be disconnected tonight unless you pay $1,200 at http://tinyurl.com/urgent-verify. Act now.",1,threat_scam
+"FINAL WARNING: A legal case has been filed against you. Pay Rs. 25,000 within 24 hours or you will be arrested.",1,threat_scam
+"Dear Rahul, you have been chosen for a free a brand new car. Act fast, offer ends in 24 hours!",1,prize_scam
+"We have your personal photos. Send Rs. 25,000 in today or we will share them with your contacts.",1,threat_scam
+Security alert from Amazon: confirm your identity and card number here http://paypa1-support.net/verify to avoid suspension.,1,phishing
+"Payment of $1,200 to Amazon was successful. Thank you for your purchase.",0,safe
+URGENT: Your ICICI Bank account has been suspended. Verify your details within today at http://paypa1-support.net/verify,1,phishing
+Quick favor Priya: change the vendor bank account details before 2 hours. This is confidential and urgent.,1,ceo_fraud
+"Dear customer, unusual login detected on your HDFC Bank account. Click http://bank-update-kyc.info/login to confirm your password immediately.",1,phishing
+This is your Director. I need you to send $89.99 right now. I cannot take calls. Reply as soon as possible.,1,ceo_fraud
+"Paytm giveaway: you were selected to receive $1,000 gift card. Click http://bank-update-kyc.info/login and enter your bank details.",1,prize_scam
+The quarterly budget review is on Wednesday. Please bring your department's figures.,0,safe
+Netflix giveaway: you were selected to receive a brand new car. Click http://tinyurl.com/urgent-verify and enter your bank details.,1,prize_scam
+"PayPal notice: suspicious transaction of $1,200. Verify your OTP and PIN at http://bit.ly/3xYz9Ab now.",1,phishing
+Your SBI KYC has expired. Update now at http://amazon-rewards-claim.xyz/win or your account will be blocked.,1,phishing
+URGENT: Your Chase account has been suspended. Verify your details within 2 hours at http://bit.ly/3xYz9Ab,1,phishing
+"Dear Rahul, you have been chosen for a free $1,000 gift card. Act fast, offer ends in 24 hours!",1,prize_scam
+Flipkart giveaway: you were selected to receive iPhone 15. Click http://secure-login-verify.com/account and enter your bank details.,1,prize_scam
+"Payment of Rs. 1,50,000 to Netflix was successful. Thank you for your purchase.",0,safe
+Your Flipkart order has been shipped and will arrive on Thursday. Track it in the official app.,0,safe
+Paytm Security: we detected hackers on your device. Install this software now http://paypa1-support.net/verify to fix it.,1,tech_support
+"Dear customer, unusual login detected on your ICICI Bank account. Click http://tinyurl.com/urgent-verify to confirm your password immediately.",1,phishing
+Wells Fargo notice: suspicious transaction of $89.99. Verify your OTP and PIN at http://secure-login-verify.com/account now.,1,phishing
+Netflix Security: we detected hackers on your device. Install this software now http://bank-update-kyc.info/login to fix it.,1,tech_support
+"Your parcel is held at customs. Pay a fee of Rs. 25,000 at http://bank-update-kyc.info/login within end of day or it will be destroyed.",1,threat_scam
+FINAL WARNING: A legal case has been filed against you. Pay $500 within end of day or you will be arrested.,1,threat_scam
+"Your electricity will be disconnected tonight unless you pay $1,200 at http://bank-update-kyc.info/login. Act now.",1,threat_scam
+"Final notice: unclaimed reward of Rs. 1,50,000 is waiting. Confirm your details at http://paypa1-support.net/verify before it expires.",1,prize_scam
+Your Wells Fargo KYC has expired. Update now at http://paypa1-support.net/verify or your account will be blocked.,1,phishing
+Your SBI statement for this month is now available. Log in through the official app to view it.,0,safe
+"Great job on the presentation today, Rahul! The client loved it.",0,safe
+WARNING: Your computer is infected with a virus. Call Microsoft support immediately and allow remote access.,1,tech_support
+"From the Director: I need your help with a private payment of Rs. 4,999. Do not tell the finance team yet.",1,ceo_fraud
+"Tax department notice: you owe Rs. 1,50,000. Pay immediately via gift cards to avoid prosecution.",1,threat_scam
+This is your Managing Director. I need you to send $500 right now. I cannot take calls. Reply as soon as possible.,1,ceo_fraud
+"Thanks for sending the report, David. I'll review it and get back to you by Friday.",0,safe
+URGENT: Your Axis Bank account has been suspended. Verify your details within end of day at http://paypa1-support.net/verify,1,phishing
+"Hi Rahul, this is the CFO. I am in a meeting and need you to buy gift cards urgently. Keep this confidential.",1,ceo_fraud
+Your package from Apple was delivered to your front door at 2:15 pm.,0,safe
+"ICICI Bank notice: suspicious transaction of Rs. 25,000. Verify your OTP and PIN at http://bank-update-kyc.info/login now.",1,phishing
+Amazon Security: we detected hackers on your device. Install this software now http://tinyurl.com/urgent-verify to fix it.,1,tech_support
+SBI will never ask for your PIN or password. Stay alert and report suspicious messages.,0,safe
+Alert! Your device has 5 viruses. Do not turn off your computer. Call the toll free number within 24 hours.,1,tech_support
+"Thanks for sending the report, Rahul. I'll review it and get back to you by Friday.",0,safe
+"Dear Meera, you have been chosen for a free $1,000 gift card. Act fast, offer ends in 2 hours!",1,prize_scam
+"ICICI Bank notice: suspicious transaction of Rs. 4,999. Verify your OTP and PIN at http://amazon-rewards-claim.xyz/win now.",1,phishing
+"Hi Meera, this is the Managing Director. I am in a meeting and need you to buy gift cards urgently. Keep this confidential.",1,ceo_fraud
+Apple Security: we detected hackers on your device. Install this software now http://tinyurl.com/urgent-verify to fix it.,1,tech_support
+Security alert from Flipkart: confirm your identity and card number here http://paypa1-support.net/verify to avoid suspension.,1,phishing
+Security alert from Amazon: confirm your identity and card number here http://amazon-rewards-claim.xyz/win to avoid suspension.,1,phishing
+ICICI Bank notice: suspicious transaction of $89.99. Verify your OTP and PIN at http://bank-update-kyc.info/login now.,1,phishing
+Quick favor Rahul: change the vendor bank account details before today. This is confidential and urgent.,1,ceo_fraud
+"Your electricity will be disconnected tonight unless you pay Rs. 4,999 at http://paypa1-support.net/verify. Act now.",1,threat_scam
+Your Google account was hacked. Share the verification code we sent you so our agent can secure it.,1,tech_support
+"Hi Karthik, are we still meeting for lunch tomorrow at 1 pm?",0,safe
+"Dear customer, unusual login detected on your Axis Bank account. Click http://secure-login-verify.com/account to confirm your password immediately.",1,phishing
+Dinner at my place on Saturday? I'm making pasta.,0,safe
+WARNING: Your computer is infected with a virus. Call Paytm support immediately and allow remote access.,1,tech_support
+From the CFO: I need your help with a private payment of $500. Do not tell the finance team yet.,1,ceo_fraud
+Tax department notice: you owe $500. Pay immediately via gift cards to avoid prosecution.,1,threat_scam
+"This is your Director. I need you to send Rs. 4,999 right now. I cannot take calls. Reply as soon as possible.",1,ceo_fraud
+"Dear Sarah, you have been chosen for a free $1,000 gift card. Act fast, offer ends in today!",1,prize_scam
+"Your parcel is held at customs. Pay a fee of Rs. 1,50,000 at http://bank-update-kyc.info/login within 2 hours or it will be destroyed.",1,threat_scam
+"Your OTP is 482913. Do not share this code with anyone, including PayPal staff.",0,safe
+Microsoft giveaway: you were selected to receive a brand new car. Click http://bank-update-kyc.info/login and enter your bank details.,1,prize_scam
+Security alert from Netflix: confirm your identity and card number here http://bit.ly/3xYz9Ab to avoid suspension.,1,phishing
+"Congratulations Rahul! You have won $1,000 gift card. Claim your prize now at http://tinyurl.com/urgent-verify",1,prize_scam
+"Dear John, you have been chosen for a free iPhone 15. Act fast, offer ends in 2 hours!",1,prize_scam
+Your Google order has been shipped and will arrive on Thursday. Track it in the official app.,0,safe
+"Dear customer, unusual login detected on your Chase account. Click http://bank-update-kyc.info/login to confirm your password immediately.",1,phishing
+"Your parcel is held at customs. Pay a fee of Rs. 1,50,000 at http://bit.ly/3xYz9Ab within end of day or it will be destroyed.",1,threat_scam
+Payment of $500 to Flipkart was successful. Thank you for your purchase.,0,safe
+Security alert from Apple: confirm your identity and card number here http://bit.ly/3xYz9Ab to avoid suspension.,1,phishing
+Quick favor Karthik: change the vendor bank account details before 30 minutes. This is confidential and urgent.,1,ceo_fraud
+Security alert from Apple: confirm your identity and card number here http://bank-update-kyc.info/login to avoid suspension.,1,phishing
+"Dear Rahul, you have been chosen for a free iPhone 15. Act fast, offer ends in today!",1,prize_scam
+Your ICICI Bank KYC has expired. Update now at http://bit.ly/3xYz9Ab or your account will be blocked.,1,phishing
+"Your parcel is held at customs. Pay a fee of $1,200 at http://secure-login-verify.com/account within end of day or it will be destroyed.",1,threat_scam
+Happy birthday Meera! Hope you have a wonderful day with family.,0,safe
+"Hi Rahul, are we still meeting for lunch tomorrow at 1 pm?",0,safe
+Amazon Security: we detected hackers on your device. Install this software now http://secure-login-verify.com/account to fix it.,1,tech_support
+"Your parcel is held at customs. Pay a fee of Rs. 25,000 at http://bank-update-kyc.info/login within today or it will be destroyed.",1,threat_scam
+"Priya, please process an urgent wire transfer of Rs. 25,000 to this new vendor today. Do not discuss with anyone.",1,ceo_fraud
+Payment of $500 to Apple was successful. Thank you for your purchase.,0,safe
+"Your OTP is 482913. Do not share this code with anyone, including Wells Fargo staff.",0,safe
+Your electricity will be disconnected tonight unless you pay $500 at http://bit.ly/3xYz9Ab. Act now.,1,threat_scam
+Netflix Security: we detected hackers on your device. Install this software now http://bit.ly/3xYz9Ab to fix it.,1,tech_support
+Your Netflix account was hacked. Share the verification code we sent you so our agent can secure it.,1,tech_support
+Apple Security: we detected hackers on your device. Install this software now http://paypa1-support.net/verify to fix it.,1,tech_support
+This is your CEO. I need you to send $89.99 right now. I cannot take calls. Reply as soon as possible.,1,ceo_fraud
+Your package from Amazon was delivered to your front door at 2:15 pm.,0,safe
+"This is your Managing Director. I need you to send Rs. 25,000 right now. I cannot take calls. Reply as soon as possible.",1,ceo_fraud
+"Hey John, I'm running ten minutes late. Please start without me.",0,safe
+Your Flipkart subscription renews next month. You can manage it anytime in your account settings.,0,safe
+"Meera, please process an urgent wire transfer of $89.99 to this new vendor today. Do not discuss with anyone.",1,ceo_fraud
+Your electricity will be disconnected tonight unless you pay $89.99 at http://bit.ly/3xYz9Ab. Act now.,1,threat_scam
+"Anita, please process an urgent wire transfer of Rs. 1,50,000 to this new vendor today. Do not discuss with anyone.",1,ceo_fraud
+WARNING: Your computer is infected with a virus. Call Google support immediately and allow remote access.,1,tech_support
+Apple giveaway: you were selected to receive a free vacation. Click http://tinyurl.com/urgent-verify and enter your bank details.,1,prize_scam
+URGENT: Your HDFC Bank account has been suspended. Verify your details within 24 hours at http://paypa1-support.net/verify,1,phishing
+"Hello, this is Google technical support. Please give us your password to remove the malware.",1,tech_support
+"We have your personal photos. Send Rs. 1,50,000 in 30 minutes or we will share them with your contacts.",1,threat_scam
+"Dear Sarah, you have been chosen for a free a brand new car. Act fast, offer ends in 2 hours!",1,prize_scam
+This is your CFO. I need you to send $500 right now. I cannot take calls. Reply as soon as possible.,1,ceo_fraud
+"From the CFO: I need your help with a private payment of $1,200. Do not tell the finance team yet.",1,ceo_fraud
+Final notice: unclaimed reward of $500 is waiting. Confirm your details at http://paypa1-support.net/verify before it expires.,1,prize_scam
+Security alert from Flipkart: confirm your identity and card number here http://tinyurl.com/urgent-verify to avoid suspension.,1,phishing
+"FINAL WARNING: A legal case has been filed against you. Pay Rs. 1,50,000 within 2 hours or you will be arrested.",1,threat_scam
+Action required: your Amazon password expires in 2 hours. Login at http://bit.ly/3xYz9Ab to keep access.,1,phishing
+"Payment of Rs. 4,999 to Paytm was successful. Thank you for your purchase.",0,safe
+"FINAL WARNING: A legal case has been filed against you. Pay Rs. 25,000 within today or you will be arrested.",1,threat_scam
+Your Chase KYC has expired. Update now at http://paypa1-support.net/verify or your account will be blocked.,1,phishing
+Your Wells Fargo statement for this month is now available. Log in through the official app to view it.,0,safe
+PayPal notice: suspicious transaction of $500. Verify your OTP and PIN at http://paypa1-support.net/verify now.,1,phishing
+"Hello, this is Paytm technical support. Please give us your password to remove the malware.",1,tech_support
+URGENT: Your PayPal account has been suspended. Verify your details within 24 hours at http://amazon-rewards-claim.xyz/win,1,phishing
+Weekly update: the server maintenance finished successfully and all services are running normally.,0,safe
+Quick favor Priya: change the vendor bank account details before 24 hours. This is confidential and urgent.,1,ceo_fraud
+Please find the meeting notes attached. Let me know if I missed anything.,0,safe
+Your package from Netflix was delivered to your front door at 2:15 pm.,0,safe
+Payment of $500 to Microsoft was successful. Thank you for your purchase.,0,safe
+"Your electricity will be disconnected tonight unless you pay Rs. 1,50,000 at http://tinyurl.com/urgent-verify. Act now.",1,threat_scam
+URGENT: Your Axis Bank account has been suspended. Verify your details within 30 minutes at http://tinyurl.com/urgent-verify,1,phishing
+Tax department notice: you owe $89.99. Pay immediately via gift cards to avoid prosecution.,1,threat_scam
+Payment of $500 to Google was successful. Thank you for your purchase.,0,safe
+Your HDFC Bank KYC has expired. Update now at http://bank-update-kyc.info/login or your account will be blocked.,1,phishing
+"Your electricity will be disconnected tonight unless you pay Rs. 25,000 at http://secure-login-verify.com/account. Act now.",1,threat_scam
+"Hi Meera, this is the CFO. I am in a meeting and need you to buy gift cards urgently. Keep this confidential.",1,ceo_fraud
+"David, please process an urgent wire transfer of $89.99 to this new vendor today. Do not discuss with anyone.",1,ceo_fraud
+URGENT: Your Wells Fargo account has been suspended. Verify your details within 2 hours at http://tinyurl.com/urgent-verify,1,phishing
+Quick favor David: change the vendor bank account details before 2 hours. This is confidential and urgent.,1,ceo_fraud
+Security alert from Google: confirm your identity and card number here http://paypa1-support.net/verify to avoid suspension.,1,phishing
+"Your electricity will be disconnected tonight unless you pay $1,200 at http://bit.ly/3xYz9Ab. Act now.",1,threat_scam
+"Rahul, please process an urgent wire transfer of $89.99 to this new vendor today. Do not discuss with anyone.",1,ceo_fraud
+"Apple giveaway: you were selected to receive Rs. 10,00,000. Click http://bit.ly/3xYz9Ab and enter your bank details.",1,prize_scam
+Your parcel is held at customs. Pay a fee of $500 at http://bank-update-kyc.info/login within end of day or it will be destroyed.,1,threat_scam
+"Payment of Rs. 25,000 to Paytm was successful. Thank you for your purchase.",0,safe
+Netflix giveaway: you were selected to receive a free vacation. Click http://tinyurl.com/urgent-verify and enter your bank details.,1,prize_scam
+Quick favor Meera: change the vendor bank account details before today. This is confidential and urgent.,1,ceo_fraud
+"Your OTP is 482913. Do not share this code with anyone, including Chase staff.",0,safe
+"From the Managing Director: I need your help with a private payment of Rs. 4,999. Do not tell the finance team yet.",1,ceo_fraud
+Quick favor John: change the vendor bank account details before 24 hours. This is confidential and urgent.,1,ceo_fraud
+Action required: your Flipkart password expires in today. Login at http://tinyurl.com/urgent-verify to keep access.,1,phishing
+We have your personal photos. Send $500 in today or we will share them with your contacts.,1,threat_scam
+Your SBI KYC has expired. Update now at http://bank-update-kyc.info/login or your account will be blocked.,1,phishing
+"Great job on the presentation today, Meera! The client loved it.",0,safe
+You are our lucky winner! Send a small processing fee to receive iPhone 15. Reply within end of day.,1,prize_scam
+Your Chase statement for this month is now available. Log in through the official app to view it.,0,safe
+"Dear David, you have been chosen for a free iPhone 15. Act fast, offer ends in 24 hours!",1,prize_scam
+Payment of $89.99 to Netflix was successful. Thank you for your purchase.,0,safe
+"Thanks for sending the report, Priya. I'll review it and get back to you by Friday.",0,safe
+"Netflix giveaway: you were selected to receive Rs. 10,00,000. Click http://tinyurl.com/urgent-verify and enter your bank details.",1,prize_scam
+"Thanks for sending the report, Meera. I'll review it and get back to you by Friday.",0,safe
+You are our lucky winner! Send a small processing fee to receive a brand new car. Reply within 30 minutes.,1,prize_scam
+"Dear customer, unusual login detected on your SBI account. Click http://bank-update-kyc.info/login to confirm your password immediately.",1,phishing
+"Great job on the presentation today, Priya! The client loved it.",0,safe
+"Dear customer, unusual login detected on your SBI account. Click http://paypa1-support.net/verify to confirm your password immediately.",1,phishing
+"We have your personal photos. Send $1,200 in 2 hours or we will share them with your contacts.",1,threat_scam
+Amazon Security: we detected hackers on your device. Install this software now http://bank-update-kyc.info/login to fix it.,1,tech_support
+This is your CEO. I need you to send $500 right now. I cannot take calls. Reply as soon as possible.,1,ceo_fraud
+Action required: your Amazon password expires in 24 hours. Login at http://paypa1-support.net/verify to keep access.,1,phishing
+Quick favor Priya: change the vendor bank account details before end of day. This is confidential and urgent.,1,ceo_fraud
+"Hey Meera, I'm running ten minutes late. Please start without me.",0,safe
+"Netflix giveaway: you were selected to receive $1,000 gift card. Click http://paypa1-support.net/verify and enter your bank details.",1,prize_scam
+Quick favor Sarah: change the vendor bank account details before end of day. This is confidential and urgent.,1,ceo_fraud
+Happy birthday John! Hope you have a wonderful day with family.,0,safe
+"Congratulations Anita! You have won $1,000 gift card. Claim your prize now at http://secure-login-verify.com/account",1,prize_scam
+"Your electricity will be disconnected tonight unless you pay Rs. 1,50,000 at http://bank-update-kyc.info/login. Act now.",1,threat_scam
+Quick favor David: change the vendor bank account details before 24 hours. This is confidential and urgent.,1,ceo_fraud
+"Your OTP is 482913. Do not share this code with anyone, including SBI staff.",0,safe
+"Hi Priya, are we still meeting for lunch tomorrow at 1 pm?",0,safe
+"Tax department notice: you owe Rs. 4,999. Pay immediately via gift cards to avoid prosecution.",1,threat_scam
+"Hi Anita, this is the CEO. I am in a meeting and need you to buy gift cards urgently. Keep this confidential.",1,ceo_fraud
+"Dear Priya, you have been chosen for a free a free vacation. Act fast, offer ends in today!",1,prize_scam
+Action required: your Google password expires in end of day. Login at http://tinyurl.com/urgent-verify to keep access.,1,phishing
+Your electricity will be disconnected tonight unless you pay $89.99 at http://tinyurl.com/urgent-verify. Act now.,1,threat_scam
+"SBI notice: suspicious transaction of Rs. 4,999. Verify your OTP and PIN at http://bank-update-kyc.info/login now.",1,phishing
+Wells Fargo will never ask for your PIN or password. Stay alert and report suspicious messages.,0,safe
+"FINAL WARNING: A legal case has been filed against you. Pay Rs. 25,000 within 2 hours or you will be arrested.",1,threat_scam
+Alert! Your device has 5 viruses. Do not turn off your computer. Call the toll free number within 2 hours.,1,tech_support
+"Hey Anita, I'm running ten minutes late. Please start without me.",0,safe
+Flipkart giveaway: you were selected to receive a brand new car. Click http://bank-update-kyc.info/login and enter your bank details.,1,prize_scam
+Action required: your Flipkart password expires in 30 minutes. Login at http://amazon-rewards-claim.xyz/win to keep access.,1,phishing
+Action required: your Amazon password expires in today. Login at http://tinyurl.com/urgent-verify to keep access.,1,phishing
+Congratulations Meera! You have won iPhone 15. Claim your prize now at http://bank-update-kyc.info/login,1,prize_scam
+"From the CEO: I need your help with a private payment of Rs. 25,000. Do not tell the finance team yet.",1,ceo_fraud
+Reminder: the library book you borrowed is due on Friday.,0,safe
+You are our lucky winner! Send a small processing fee to receive a free vacation. Reply within 30 minutes.,1,prize_scam
