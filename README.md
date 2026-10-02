@@ -209,3 +209,8 @@ datasets is required.
 ## 12. Author
 
 Developed as an academic machine learning project.
+
+
+## Application Screenshot
+
+![Social Engineering Detection System](social-engineering-detector.png)
